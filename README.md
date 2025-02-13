@@ -4,7 +4,7 @@
 
 ### 🔹 O que tem aqui?
 - **Jogo da Velha** ❌⭕ - Um clássico para desafiar os amigos!
-- **Jogo da Cobrinha** 🐍 - Coma maçãs, cresça e evite bater nas paredes! ( ainda em produção )
+- **Jogo da Cobrinha** 🐍 - Coma maçãs, cresça e evite bater nas paredes!
 - 🚀 Novos joguinhos chegando em breve...
 
 ---
